@@ -1,0 +1,11 @@
+P4 : + 1 + 2 + 3 … n  
+bagaimana cara membuat tambahan dari 1 sampai 2 dan seterusnya tanpa harus menambahkan satu persatu 
+
+kalo rumus matematikanyo: S = n(n+1)/2 
+
+atau analisis satu persatu kalo 1 + 100 = 101 , 2 + 99 = 101, 3 + 98 = 101 sampai dengan 50 + 51 = 101 
+artinya kita punya 50 pasangan : maka 50 x 100 = 5050 
+
+
+Kalo rumus: jumlah operasi sekali bae 
+nah kalo caro keduo : penambahan berulang, setelah mendapatkan jumlah pasangan baru dikalikan 100 -_-" 
